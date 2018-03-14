@@ -1,0 +1,28 @@
+h1 {
+  color: inherit;
+  font-style: oblique;
+}
+
+h2 {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-image: url(https://www.google.com/imgres?imgurl=http%3A%2F%2Fkb4images.com%2Fimages%2Fworld-wallpaper%2F36976217-world-wallpaper.jpg&imgrefurl=http%3A%2F%2Fkb4images.com%2FWorld-Wallpaper%2Fnumber-174422.html&docid=fHHIOM6eDGR3sM&tbnid=47Vp8UCtkApb4M%3A&vet=10ahUKEwjSwteU5uvZAhUDRhQKHV-6Cx8QMwhYKB4wHg..i&w=1920&h=1080&bih=574&biw=1040&q=world%20images&ved=0ahUKEwjSwteU5uvZAhUDRhQKHV-6Cx8QMwhYKB4wHg&iact=mrc&uact=8);
+  margin: inherit;
+}
+
+ul {
+  color: inherit;
+}
+
+p {
+  color: inherit;
+  font-style: normal;
+}
+
+li {
+  color: brown;
+  font-size: 40px;
+}
